@@ -1,0 +1,2 @@
+# TKS
+Technologie Komponentów Sieciowych
