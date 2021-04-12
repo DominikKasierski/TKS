@@ -1,2 +1,6 @@
 # TKS
-Technologie Komponentów Sieciowych
+Technologie Komponentów Sieciowych  
+  
+Authors:  
+Dominik Kasierski  
+Krzysztof Szcześniak
